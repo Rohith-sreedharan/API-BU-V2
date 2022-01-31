@@ -2,7 +2,7 @@
 # Hi there 👋
 
 <div align="center">
-  <img src="logo.svg" width="30%" min-width="100px"/>
+  <img src="logo.svg" width="15%" height="15%"/>
   <a href="http://botsuniverse.ml"
 </div>
 
